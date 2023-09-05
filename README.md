@@ -1,169 +1,477 @@
-![Alt text](./icons/frame.jpg)
-![Alt text](./icons/component.jpg)
-![Alt text](./icons/instance.jpg)
-![Alt text](./icons/shape.jpg)
-![Alt text](./icons/ellipse_image.jpg)
-![Alt text](./icons/mask_group.jpg)
-![Alt text](./icons/intersect.jpg)
-![Alt text](./icons/exclude.jpg)
-![Alt text](./icons/open%20lock.jpg)
-![Alt text](./icons/close%20lock.jpg)
-![Alt text](./icons/open_eye.jpg)
-![Alt text](./icons/close_eye.jpg)
+# UI/UX Design
+---
+### Потрібно завжди слідкувати за трендами:
+1. Мінімалізм
+2. Глазморфізм (елементи на склі)
+3. 3D - елементи
+4. Темний фон
+5. Bauhaus (фокус на геометрію)
+6. Анімовані ілюстрації (картинка рухається)
+7. Великі шрифти
+---
+### 3 етапи на проекті для дизайнера:
+~~~
+- дрифування клієнта
+- дослідження продукту
+- ідея та структура сайту
 
-![Alt text](./icons/figma_menu.jpg)
-![Alt text](./icons/move_scale.jpg)
-![Alt text](./icons/move.jpg)
-![Alt text](./icons/scale.jpg)
-![Alt text](./icons/slice.jpg)
-![Alt text](./icons/rectangle.jpg)
-![Alt text](./icons/arrow.jpg)
-![Alt text](./icons/ellipse.jpg)
-![Alt text](./icons/line.jpg)
-![Alt text](./icons/polygon.jpg)
-![Alt text](./icons/star.jpg)
-![Alt text](./icons/place_image_video.jpg)
-![Alt text](./icons/pen.jpg)
-![Alt text](./icons/pencil.jpg)
-![Alt text](./icons/text.jpg)
-![Alt text](./icons/resources.jpg)
-![Alt text](./icons/hand.jpg)
-![Alt text](./icons/comments.jpg)
+!!! Завжди шукати сайти за схожою тематикою та досліджувати їх 
 
-![Alt text](./icons/x-axis.jpg)
-![Alt text](./icons/y-axis.jpg)
-![Alt text](./icons/width.jpg)
-![Alt text](./icons/height.jpg)
-![Alt text](./icons/rotate.jpg)
-![Alt text](./icons/border-radius.jpg)
+Бриф - це короткий список запитань до замовника з приводу того як має виглядати сайт
+Мудборд - палітра кольорів, фотографії - для замовника
+~~~
+---
+### Ресурси:
+~~~
+Telegram: UI/UX inspiration
+Site: dribbble
+~~~
+---
+### Тули:
+~~~
+- почта Gmail
+- Google Drive
+- Figma (десктоп)
+- After Effects CC (Creative Cloud Version) - платна
+- Media Encoder (Creative Cloud Version) - платна
+(дві останні використовувати версії одного року випуску)
+- Photoshop (або Paint.net) - перша програмка платна
+- Cinema 4D R19 і вище
+~~~
+---
+## Блоки курсу:
+#### 1. UI: візуальна мова
+#### 2. UX: проектування
+#### 3. Мобільні інтерфейси
+#### 4. Анімація інтерфейсів
+#### 5. Основи 3D для веб-дизайну
+---
+### 1. Figma с нуля | UX UI Дизайнер: «Возрождение» | Бесплатный курс веб-дизайна — первый урок
+[![перший урок](./icons/logo-1.jpg)](https://www.youtube.com/watch?v=QISEeyXSULg&list=PLd0SfLo47vjALBR_I2uDLo1w1TO8ZTOxw&index=3)
 
-![Alt text](./icons/for_triangle_the_number_of_angles.jpg)
+### Розклад відео уроку:
+0:00 - Інтро
+5:02 - Фігма: з чого почиати
+12:24 - Важливі концепції (Frame, Component, instance)
+34:30 - Для чого використовувати фрейми
+42:48 - Інтерфейс Figma
+58:40 - Базові інструменти Фігми
+01:10:58 - Примітиви в Фігмі
+01:11:56 - Перо в Фігмі
+01:12:15 - Текст в Фігмі
+01:17:00 - Комментарі в Фігмі
+01:19:56 - Робота з текстом та підключення шрифтів
+01:30:50 - Заливка фігур/слоїв кольором та зображеннями
+01:48:00 - Робота з лінією
+01:53:55 - Полігон в Фігмі
+01:56:00 - Работа с пером
+02:02:30 - Маски и булеві функції
+02:13:00 - Направляючі та сітки
+02:18:55 - Стилі в Фігмі
+02:27:50 - Завдання та відповіді на запитання
+02:54:00 - Гарячі клавіші
 
-![Alt text](./icons/star_angles.jpg)
-![Alt text](./icons/star_element_volume_filling.jpg)
+---
+### Теорія: визначення понять, гарячі кнопки, розділи, деякі елементи (посилання на макет з інформацією)
+https://www.figma.com/file/XdapPvY1NPgzof0mED2ko7rh/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_figma?type=design&node-id=929-0&mode=design&t=UxGGR2wlvrTs8F2f-0
 
-![Alt text](./icons/border_for_each_side.jpg)
-![Alt text](./icons/line_height.jpg)
-![Alt text](./icons/letter_spacing.jpg)
-![Alt text](./icons/paragraph_spacing.jpg)
-![Alt text](./icons/auto_width.jpg)
-![Alt text](./icons/auto_height.jpg)
-![Alt text](./icons/fixed_size.jpg)
-![Alt text](./icons/text-align-left.jpg)
-![Alt text](./icons/text-align-center.jpg)
-![Alt text](./icons/text_align_right.jpg)
-![Alt text](./icons/text_align_justified.jpg)
-![Alt text](./icons/align_top.jpg)
-![Alt text](./icons/align_middle.jpg)
-![Alt text](./icons/align_bottom.jpg)
-![Alt text](./icons/underline.jpg)
-![Alt text](./icons/srtike_throught.jpg)
-![Alt text](./icons/titlecase.jpg)
-![Alt text](./icons/uppercase.jpg)
-![Alt text](./icons/lowercase.jpg)
-![Alt text](./icons/bulleted_list.jpg)
-![Alt text](./icons/numbered_list.jpg)
+---
 
-![Alt text](./icons/fill.jpg)
+### Урок № 1 (записи):
+__Фрейм__ (іконка в README.md) - це обєкт - контейнер в середині якого можна розміщувати багато елементів. Це фактично полотно, і у нього є свої налаштування.
+__Компонент__ (іконка в README.md) - це елемент на основі якого можна створювати багато інстанцій (точних копій компонента), маючи можливість їх всіх редагувати, вносячи зміни тільки в основний компонент.
+__Інстанція__ (іконка в README.md) - копія компонента, яка приймає всі основні його зміни (колір, шрифт, форму, розмір, і так далі ...)
+Бекграунд малювати не фреймом а шейпом (shape).
+Кнопки малювати фреймом.
+В атрибутах "fill" -> це заливка кольором.
+Всі компоненти потрібно дублювати, їх виносимо на зовні фрейму, як примірник готового елементу, який можна буде дублювати, а інстанція має залишатися у фреймі сторіночки.
+Тільки фрейми можна прилінковувати, як окремі сторінки.
+__"space (зажатий)"__ -> натискаємо і тримаємо пробіл і мишкою рухаємося по макету
+Завжди робити щоб усі цифрові значення були цілими: __33рх, 115рх__, без використання дробових значень, таких як: __115, 367889рх__.
+Фігма автоматично зберігає проект після кожної внесеної зміни.
+Правильно при виборі роботи __з текстом__ зразу вибирати рамки контейнера, а вже потім вносити у нього сам текст.
+Для точного виміру відступу між двома блоками тексту зажимати __"Alt"__ і стрілочками "вверх" та "вниз" створювати відступ.
+При затисканні __"Shift"__ і клацанні стрілочками у різні сторони, блок переноситься одразу на 10 пікселів в різні сторони.
 
-![Alt text](./icons/fill_image.jpg)
-![Alt text](./icons/fit_image.jpg)
-![Alt text](./icons/image_crop.jpg)
-![Alt text](./icons/tile_image.jpg)
 
-![Alt text](./icons/blend_mode.jpg)
-![Alt text](./icons/fill_blend_normal.jpg)
-![Alt text](./icons/fill_blend_darken.jpg)
-![Alt text](./icons/fill_blend_multiply.jpg)
-![Alt text](./icons/fill_blend_color_blum.jpg)
-![Alt text](./icons/fill_blend_lighten.jpg)
-![Alt text](./icons/fill_blend_screen.jpg)
-![Alt text](./icons/fill_blend_color_dodge.jpg)
-![Alt text](./icons/fill_blend_overlay.jpg)
-![Alt text](./icons/fill_blend_soft_light.jpg)
-![Alt text](./icons/fill_blend_hard_light.jpg)
-![Alt text](./icons/fill_blend_difference.jpg)
-![Alt text](./icons/fill_blend_exclusion.jpg)
-![Alt text](./icons/fill_blend_hue.jpg)
-![Alt text](./icons/fill_blend_saturation.jpg)
-![Alt text](./icons/fill_blend_color.jpg)
-![Alt text](./icons/fill_blend_luminosity.jpg)
 
-![Alt text](./icons/linear_gradient.jpg)
-![Alt text](./icons/radial_gradient.jpg)
-![Alt text](./icons/angular_gradient.jpg)
-![Alt text](./icons/diamond_gradient.jpg)
+---
 
-![Alt text](./icons/exposure.jpg)
-![Alt text](./icons/contrast.jpg)
-![Alt text](./icons/saturation.jpg)
-![Alt text](./icons/temperature.jpg)
-![Alt text](./icons/tint.jpg)
-![Alt text](./icons/highlights.jpg)
-![Alt text](./icons/shadows.jpg)
+### В даному розділі детально описано значення усіх значків панелей управління Фігми:
 
-![Alt text](./icons/stroke.jpg)
-![Alt text](./icons/setting_shadows.jpg)
-![Alt text](./icons/center.jpg)
-![Alt text](./icons/inside.jpg)
-![Alt text](./icons/outside.jpg)
-![Alt text](./icons/shadow_blur_level.jpg)
-![Alt text](./icons/effects.jpg)
-![Alt text](./icons/inner_shadow.jpg)
-![Alt text](./icons/drop_shadow.jpg)
-![Alt text](./icons/layer_blur.jpg)
-![Alt text](./icons/backgraund_blur.jpg)
-![Alt text](./icons/export.jpg)
+---
+#### Панель шарів (слоїв)
 
-![Alt text](./icons/border_all.jpg)
-![Alt text](./icons/border_top.jpg)
-![Alt text](./icons/border_bottom.jpg)
-![Alt text](./icons/border_left.jpg)
-![Alt text](./icons/border_right.jpg)
-![Alt text](./icons/border_mixed%20(custom).jpg)
-![Alt text](./icons/border_solid.jpg)
-![Alt text](./icons/border_dash.jpg)
-![Alt text](./icons/border_dash_cap_none.jpg)
-![Alt text](./icons/border_dash_cap_square.jpg)
-![Alt text](./icons/border_dash_cap_round.jpg)
+![Alt text](./icons/frame.jpg) - значок фрейму
 
-![Alt text](./icons/line_none.jpg)
-![Alt text](./icons/line_arrow.jpg)
-![Alt text](./icons/line_triangle_arrow.jpg)
-![Alt text](./icons/line_reversed_triangle.jpg)
-![Alt text](./icons/line_circle_arrow.jpg)
-![Alt text](./icons/line_diamond_arrow.jpg)
-![Alt text](./icons/line_round.jpg)
-![Alt text](./icons/line_squere.jpg)
+![Alt text](./icons/component.jpg) - значок компоненту
 
-![Alt text](./icons/edit_object.jpg)
-![Alt text](./icons/create_component.jpg)
-![Alt text](./icons/use_as_mask.jpg)
-![Alt text](./icons/crop_image.jpg)
-![Alt text](./icons/boolean_groups.jpg)
+![Alt text](./icons/instance.jpg) - значок інстанції
 
-![Alt text](./icons/bolean_union_selection.jpg)
-![Alt text](./icons/boolean_subtract_selection.jpg)
-![Alt text](./icons/bolean_intersect_selection.jpg)
-![Alt text](./icons/bolean_exclude_selection.jpg)
-![Alt text](./icons/bolean_flatten_selection.jpg)
+![Alt text](./icons/shape.jpg) - значок шейпу (shape)
 
-![Alt text](./icons/grid_layout.jpg)    
-![Alt text](./icons/grid_layout_settings.jpg)
-![Alt text](./icons/grid_columns.jpg)
-![Alt text](./icons/grid_rows.jpg)
-![Alt text](./icons/grid_colunns_left.jpg)
-![Alt text](./icons/grid_columns_right.jpg)
-![Alt text](./icons/grid_columns_center.jpg)
-![Alt text](./icons/grid_columns_stretch.jpg)
-![Alt text](./icons/grid_rows_top.jpg)
-![Alt text](./icons/grid_rows_bottom.jpg)
-![Alt text](./icons/grid_rows_center.jpg)
-![Alt text](./icons/grid_rows_stretch.jpg)
-![Alt text](./icons/grid_count.jpg)
-![Alt text](./icons/grid_margin.jpg)
-![Alt text](./icons/grid_gutter.jpg)
+![Alt text](./icons/ellipse_image.jpg) - елемент кругу із зображенням
 
-![Alt text](./icons/fill_style_library.jpg)
-![Alt text](./icons/fill_editing_style_library.jpg)
+![Alt text](./icons/mask_group.jpg) - створена група маски
 
+![Alt text](./icons/intersect.jpg) - один із варіантів створеної булеан групи
+
+![Alt text](./icons/exclude.jpg) - один із варіантів створеної булеан групи
+
+![Alt text](./icons/open%20lock.jpg) - розлочений елемент (обєкт), доступний для редагування
+
+![Alt text](./icons/close%20lock.jpg) - залочений елемент (обєкт), не доступний для редагування
+
+![Alt text](./icons/open_eye.jpg) - обєкт видимий
+
+![Alt text](./icons/close_eye.jpg) - обєкт не видимий (прихований)
+
+---
+### Верхнє меню управління
+![Alt text](./icons/figma_menu.jpg) - основне меню Фігми із загальними налаштуваннями
+
+![Alt text](./icons/move_scale.jpg) - меню з можливістю перенесення (перетягування) обєктів та зміни масштабування із збереженням пропорцій 
+
+![Alt text](./icons/move.jpg) - перетягування обєктів
+
+![Alt text](./icons/scale.jpg) -  зміна масштабування із збереженням пропорцій обєкта
+
+![Alt text](./icons/slice.jpg) - для вибору зони, для прикладу для її експорту
+
+![Alt text](./icons/rectangle.jpg) - вставляємо прямокутник (квадрат)
+
+![Alt text](./icons/arrow.jpg) - вставляємо стрілку
+
+![Alt text](./icons/ellipse.jpg)- вставляємо круг
+
+![Alt text](./icons/line.jpg) - вставляємо звичайну лінію
+
+![Alt text](./icons/polygon.jpg) - вставляємо трикутник
+
+![Alt text](./icons/star.jpg) - вставляємо зірочку
+
+![Alt text](./icons/place_image_video.jpg) - вставляємо фото (робота із додаванням відео файлів вимагає платної версії редактора)
+
+![Alt text](./icons/pen.jpg) - нанесення векторних ліній 
+
+![Alt text](./icons/pencil.jpg) - довільне нанесення ліній із автоматичним їхнім згладжуванням
+
+![Alt text](./icons/text.jpg) - розділ типографіки, вводимо текст
+
+!!! 7 Флоу створення свого стилю тексту: - натискаємо на ![Alt text](./icons/text.jpg), ствавимо курсор у потрібному місці, - в розділі зправа "Text" визначаємо необхідні налаштування, - натискаємо на ![Alt text](./icons/fill_style_library.jpg), - потім на "+", заповнюємо "name" та "description", - натискаємо на "Create style".
+
+!!! 8 ![Alt text](./icons/fill_editing_style_library.jpg) -> можливість редагування стилю тексту з бібліотеки.
+
+![Alt text](./icons/resources.jpg) - компоненти, плагіни та віджети
+
+![Alt text](./icons/hand.jpg) - перетягування елементів
+
+![Alt text](./icons/comments.jpg) - введення коментарів
+
+---
+### Права панель атрибутів
+![Alt text](./icons/x-axis.jpg) - вісь "х" (ширина/горизонталь)
+
+![Alt text](./icons/y-axis.jpg) вісь "у" (висота/вертикаль)
+
+![Alt text](./icons/width.jpg) - width (розмір обєкта за шириною)
+
+![Alt text](./icons/height.jpg) - height (розмір обєкта за висотою)
+
+![Alt text](./icons/rotate.jpg) - rotate (зміщення обєкту в градусах)
+
+![Alt text](./icons/border-radius.jpg) - border-radius (зміна кутів границі)
+
+![Alt text](./icons/for_triangle_the_number_of_angles.jpg) - виключно для форми трикутника (можна задати будь - яку кількість кутів і створити будь - яку форму)
+
+![Alt text](./icons/star_angles.jpg) - виключно для зірочки - кількість кутів
+
+![Alt text](./icons/star_element_volume_filling.jpg) - рівень наповненості форми
+
+![Alt text](./icons/border_for_each_side.jpg) - незалежний бордер - радіус для кожної сторони бордеру
+
+![Alt text](./icons/line_height.jpg) - пробіли між рядками
+
+![Alt text](./icons/letter_spacing.jpg) - пробіли між буквами
+
+![Alt text](./icons/paragraph_spacing.jpg) - пробіли між параграфами
+
+![Alt text](./icons/auto_width.jpg) - встановлює автоматичну ширину
+
+![Alt text](./icons/auto_height.jpg) - автоматична висота
+
+![Alt text](./icons/fixed_size.jpg) - фіксована величина (розмір)
+
+![Alt text](./icons/text-align-left.jpg) - вирівнювання тексту по горизонталі по лівому краю
+
+![Alt text](./icons/text-align-center.jpg) - вирівнювання тексту по горизонталі по середині
+
+![Alt text](./icons/text_align_right.jpg) - вирівнювання тексту по горизонталі по правому краю
+
+![Alt text](./icons/text_align_justified.jpg) - вирівнювання тексту по горизонталі по обох краях
+
+![Alt text](./icons/align_top.jpg) - вирівнювання по вертикалі по відношенню до блоку зверху
+
+![Alt text](./icons/align_middle.jpg) - вирівнювання по вертикалі по відношенню до блоку по середині
+
+![Alt text](./icons/align_bottom.jpg) - вирівнювання по вертикалі по відношенню до блоку знизу
+
+![Alt text](./icons/underline.jpg) - підкреслення тексту
+
+![Alt text](./icons/srtike_throught.jpg) - перекреслення тексту
+
+![Alt text](./icons/titlecase.jpg) - текст звичайного регістру
+
+![Alt text](./icons/uppercase.jpg) - текст високого регістру
+
+![Alt text](./icons/lowercase.jpg) - текст низького регістру
+
+![Alt text](./icons/bulleted_list.jpg) - не номерований список
+
+![Alt text](./icons/numbered_list.jpg) - номерований список
+
+---
+### Колір
+![Alt text](./icons/fill.jpg) - розділ налаштування кольору
+
+![Alt text](./icons/fill_image.jpg) - зображення заповнюється на весь контейнер
+
+![Alt text](./icons/fit_image.jpg) - зображення встановлюється повністю
+
+![Alt text](./icons/image_crop.jpg) - режим редагування зображення
+
+![Alt text](./icons/tile_image.jpg) - зображення дублюється (повторюється по всьому контейнері)
+
+![Alt text](./icons/blend_mode.jpg) - режим змішування
+
+![Alt text](./icons/fill_blend_normal.jpg) - звичайний режим
+
+![Alt text](./icons/fill_blend_darken.jpg) - видно тільки контури
+
+![Alt text](./icons/fill_blend_multiply.jpg) - нічний режим
+
+![Alt text](./icons/fill_blend_color_blum.jpg) - дуже темний режим
+
+![Alt text](./icons/fill_blend_lighten.jpg) - режим схожий на normal (практично без різниці)
+
+![Alt text](./icons/fill_blend_screen.jpg) - режим відбілювання
+
+![Alt text](./icons/fill_blend_color_dodge.jpg) - режим світанку
+
+![Alt text](./icons/fill_blend_overlay.jpg) - темний режим глянцу
+
+![Alt text](./icons/fill_blend_soft_light.jpg) - слабке освітлення
+
+![Alt text](./icons/fill_blend_hard_light.jpg) - сильне освітлення
+
+![Alt text](./icons/fill_blend_difference.jpg) - насиченість кольорів (глянцу)
+
+![Alt text](./icons/fill_blend_exclusion.jpg) - природний колір, схожий на screen
+
+![Alt text](./icons/fill_blend_hue.jpg) - обєкт не відображається взагалі
+
+![Alt text](./icons/fill_blend_saturation.jpg) - обєкт не відображається взагалі
+
+![Alt text](./icons/fill_blend_color.jpg) - ефект туші, без чітких ознак деталей обєкту
+
+![Alt text](./icons/fill_blend_luminosity.jpg) - чітко чорно - білий обєкт
+
+!!!!!! 7777 Опис даних режимів не точний, застосовувати із попереднім переглядом для кожного обєкта індивідуально  
+
+![Alt text](./icons/linear_gradient.jpg) - лінійний градієнт 
+
+![Alt text](./icons/radial_gradient.jpg) - радіальний градієнт
+
+![Alt text](./icons/angular_gradient.jpg) - ангулярний градієнт
+
+![Alt text](./icons/diamond_gradient.jpg) - градієнт у вигляді ромбу (діаманту)
+
+![Alt text](./icons/exposure.jpg) - контакт (світло/темно)
+
+![Alt text](./icons/contrast.jpg) - контраст
+
+![Alt text](./icons/saturation.jpg) - додає та забирає кольори
+
+![Alt text](./icons/temperature.jpg) - додає холодні та теплі кольори
+
+![Alt text](./icons/tint.jpg) - розовий/зелений відтінки
+
+![Alt text](./icons/highlights.jpg) - зменшує та збільшує відблиск
+
+![Alt text](./icons/shadows.jpg) - регулювання тіні
+
+!!! 3 Флоу створення нового стилю кольору, або градієнту: заходимо в "fill", натисаємо на ![Alt text](./icons/fill_style_library.jpg), потім "+", вибираємо колір або градієнт і натискаємо на "Create style".
+
+!!! 4 Так само, після цього, щоб застосовувати стиль кольору -> вибираємо обєкт, потім "fill", натисаємо на ![Alt text](./icons/fill_style_library.jpg), і вибираємо стиль.
+
+!!! 5 ![Alt text](./icons/fill_editing_style_library.jpg) -> можливість редагування стилю кольору з бібліотеки.
+
+---
+### Тіні
+![Alt text](./icons/stroke.jpg) - розділ налаштування тіней
+
+![Alt text](./icons/setting_shadows.jpg) - налаштування тіней
+
+![Alt text](./icons/center.jpg) - тінь по центру
+
+![Alt text](./icons/inside.jpg) - тінь в середині
+
+![Alt text](./icons/outside.jpg) - тінь на зовні
+
+![Alt text](./icons/shadow_blur_level.jpg) - рівень розмитості тіней
+
+![Alt text](./icons/effects.jpg) - додаткові налаштування тіней
+
+![Alt text](./icons/inner_shadow.jpg) - внутрішня тінб
+
+![Alt text](./icons/drop_shadow.jpg) -???
+
+![Alt text](./icons/layer_blur.jpg) - додає розмитості основному тексту
+
+![Alt text](./icons/backgraund_blur.jpg) - додає розмитості задньому фону
+
+![Alt text](./icons/export.jpg) - експотувати фрагмент у різних розширеннях файлу
+
+---
+### Бордер - границя (до розділу - srtoke)
+
+![Alt text](./icons/border_all.jpg) - бордер зі всіх сторін 
+
+![Alt text](./icons/border_top.jpg) - бордер тільки зверху
+
+![Alt text](./icons/border_bottom.jpg) - бордер тільки знизу
+
+![Alt text](./icons/border_left.jpg) - бордер тільки зліва
+
+![Alt text](./icons/border_right.jpg) - бордер тільки зправа
+
+![Alt text](./icons/border_mixed%20(custom).jpg) - міксований режим із заданими різними властивостями для різних сторін бордерів
+
+![Alt text](./icons/border_solid.jpg) - суцільний бордер
+
+![Alt text](./icons/border_dash.jpg) - пунктирний бордер
+
+!!! 777 Для пунктирного бордера можна задавати значення ширини та пробілу між елементами (width, gap)
+
+![Alt text](./icons/border_dash_cap_none.jpg) - пунктирний бордер без додаткової стилізації
+
+![Alt text](./icons/border_dash_cap_square.jpg) - пунктирний бордер з квадратними краями
+
+![Alt text](./icons/border_dash_cap_round.jpg) - пунктирний бордер з заокругленими краями
+
+---
+
+### Налаштування лінії
+![Alt text](./icons/line_none.jpg) - лінія без додаткової стилізації
+
+![Alt text](./icons/line_arrow.jpg) - стрілочка на початку та/або в кінці лінії
+
+![Alt text](./icons/line_triangle_arrow.jpg) - трикутник на початку та/або в кінці лінії
+
+![Alt text](./icons/line_reversed_triangle.jpg) - зворотній трикутник на початку та/або в кінці лінії
+
+![Alt text](./icons/line_circle_arrow.jpg) - кружечок на початку та/або в кінці лінії
+
+![Alt text](./icons/line_diamond_arrow.jpg) - ромбик на початку та/або в кінці лінії
+
+![Alt text](./icons/line_round.jpg) - заокруглена форма на початку та/або в кінці лінії
+
+![Alt text](./icons/line_squere.jpg) - квадратна форма на початку та/або в кінці лінії
+
+!!! 1 Стилі застосовуються як для лівої, так і для правої сторони лінії.
+
+---
+### Верхній розділ по середині - управління редактором
+![Alt text](./icons/edit_object.jpg) - редагування обєкту
+
+![Alt text](./icons/create_component.jpg) - створення з обєкту компоненту
+
+![Alt text](./icons/use_as_mask.jpg) - для вирізання частини фото під певною формою
+
+!!! 777 Флоу обрізання маски: - вставляємо фото, - вибираємо форму (круг, зірочку, або будь - яку іншу), - наводимо форму на частину фото, яку хочемо обрізати під форму, - в панелі шарів, фото переносимо поверх форми, - тримаючи "Shift", виділяємо на панелі шарів фото і форму, - натискаємо зверху екрану на "mask", - зявляється частинка фото у формі.
+
+![Alt text](./icons/crop_image.jpg) - меню редагування зображення в контейнері
+
+![Alt text](./icons/boolean_groups.jpg) - булеан груп, схоже на mask. однак має більше функцій
+
+![Alt text](./icons/bolean_union_selection.jpg) - зливає два обєкта в одне ціле та робить одного кольору, обєкти можна по різному розміщати поруч один із іншим
+
+![Alt text](./icons/boolean_subtract_selection.jpg) - поєднує два обєкти створюючи один із них прозорої форми
+
+![Alt text](./icons/bolean_intersect_selection.jpg) - вирізання частинки зображення в межах обраної форми, тобто вилучення частинки з основного фото
+
+![Alt text](./icons/bolean_exclude_selection.jpg) - навпаки від попереднььої функції, під вибрану форму просто видаляє частинку з основного зображення
+
+![Alt text](./icons/bolean_flatten_selection.jpg) - створює векторний елемент (до кінця не відома суть даної функції)
+
+!!! 2 Якщо якісь обєкти поза межами фрейму не видно, натискаємо зверху над фреймом на його назву і зправа ставимо галочку на ___"Clip content"___.
+
+!!! 3 Затискаючи "Alt" і наводячи на пустий простір між обєктами можна побачити відстань в пікселях між обєктами з будь - якої із сторін.
+
+---
+### Grid (сітка)
+![Alt text](./icons/grid_layout.jpg) - це фактично поділ фрейму на рядки та колонки.
+
+![Alt text](./icons/grid_layout_settings.jpg) - для налаштування сітки.
+
+![Alt text](./icons/grid_columns.jpg) - створює колонки.
+
+![Alt text](./icons/grid_rows.jpg) - створює рядки.
+
+#### для колонок:
+![Alt text](./icons/grid_colunns_left.jpg) - колонки зліва.
+
+![Alt text](./icons/grid_columns_right.jpg) - колонки зправа.
+
+![Alt text](./icons/grid_columns_center.jpg) - колонки у центрі.
+
+![Alt text](./icons/grid_columns_stretch.jpg) - автоматично розтягнуті колонки із рівною автоматичною шириною по всьому вюпорту фрейму.
+#### для рядків:
+![Alt text](./icons/grid_rows_top.jpg) - рядки зверху.
+
+![Alt text](./icons/grid_rows_bottom.jpg) - рядки знизу.
+
+![Alt text](./icons/grid_rows_center.jpg) - рядки по центру.
+
+![Alt text](./icons/grid_rows_stretch.jpg) - автоматично розтягнуті рядки із рівною автоматичною висотою по всьому вюпорту фрейму.
+
+#### налаштування як для колонок, так і для рядків:
+![Alt text](./icons/grid_count.jpg) - кількість рядків, або колонок у фреймі.
+
+![Alt text](./icons/grid_margin.jpg) - для рядків та колонок в режимі stretch, відступи на початку і в кінці рядків та колонок.
+
+![Alt text](./icons/grid_gutter.jpg) - відступ між рядками, або колонками.
+
+---
+### створення та редагування створених стилів
+![Alt text](./icons/fill_style_library.jpg) - створення стилів
+![Alt text](./icons/fill_editing_style_library.jpg) - редагування створених стилів
+
+
+---
+### Висновки:
+1. Фігма, ліва панель - __панель шарів (слоїв)__.
+2. Фігма, права панель - __панель атрибутів__.
+3. Зверху зліва - __панель інструментів__.
+4. Не усі __шрифти__ підтримують кирилицю, деякі з них застосовуються тільки до латиниці.
+5. __mp4__ - формат в десять разів менше займає місця та не втрачає своєї якості.
+6. Всі __текстові блоки одного характеру__, наприклад із заголовками __"h2"__ мають бути одного стилю (одинаковий шрифт, стиль тексту, відступи між рядками і параграфами, між словами відстань -> все має бути обовязково одинакове).
+7. На сторінці не має бути заголовків __"h5"__, максимум потрібно використовувати до __"h4"__.
+
+---
+
+
+### Гарячі клавіші:
+1. __"Delete"__ - видалити фрейм, елемент чи інстанцію.
+2. __"Ctrl+Z"__ - повернути видалений елемент.
+3. __"Ctrl+D"__ - дублювати елемент (спочатку клацаємо на елемент, тоді застосовуємо комбінацію клавіш і переносимо елемент).
+4. __"Shift+click element"__ - для одночасної заміни якихось значень одразу декільком елементам - нажимаємо "Shift"  і клацаємо на всі елементи де потрібно внести зміни -> після чого їх вносимо.
+5. __"Ctrl+Alt+K"__ - змінює фрейм на компонент, або інстанс (фрейм виділяється синім кольором, а компонент та інстанс - фіолетовим кольором).
+6. __"Ctrl+["__ - переносимо обраний елемент в панелі шарів на один рівень вниз.
+7. __"Ctrl+]"__ - переносимо обраний елемент в панелі шарів на один рівень вверх.
+8. __"Ctrl+Shift+["__ - переносимо обраний елемент в самий низ структури фрейму.
+9. __"Ctrl+Shift+]"__ - переносимо обраний елемент в самий верх структури фрейму.
+10. Затискаючи __"Alt"__ і наводячи на пустий простір між обєктами можна побачити відстань в пікселях між обєктами з будь - якої із сторін.
+11. Для точного виміру відступу між двома блоками тексту зажимати __"Alt"__ і стрілочками "вверх" та "вниз" створювати відступ.
+12. При затисканні __"Shift"__ і клацанні стрілочками у різні сторони, блок переноситься одразу на 10 пікселів в різні сторони.
+13. __"Shift+R"__ -> включити лінійку для Фігми. Після цього перетягувати направляючі лінії по вертикалі і горизонталі створюючи кордони для контенту, які не можна переходити.
